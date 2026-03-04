@@ -37,5 +37,7 @@ int main()
         // write a loop to find the smallest element of the array and 
         // print out the smallest element and which array index it is in
 
+        // write a loop to find the sum of all the elements in the array
+
         return 0;
 }
